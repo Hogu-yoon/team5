@@ -14,7 +14,7 @@
        - 다른 사용자의 패션은 어떠한지 포스팅을 통해 공유.
 
     3. 기대효과
-       - 브랜드 인지도 향상 >> 고객 데이터 베이스 구축 >> 마케팅CRM(고객관계관리)도구로 활용가능
+       - 브랜드 인지도 향상 >> 고객 데이터 베이스 구축 >> 마케팅CRM(고객관계관리)도구로 활용가능.
 * 페이지 구성 및 참고 자료
     - [피그마 사용](https://www.figma.com/file/HjZozkk7e49ip7vzAALCdc/%EB%82%B4%EC%9D%BC-%EB%AD%90-%EC%9E%85%EC%A7%80%3F?node-id=0%3A1)
     - <img src="https://user-images.githubusercontent.com/83229401/157348695-19cecceb-9232-4e78-ae72-8ffb8b0c744c.png" width = "200" height="400"></img> <img src="https://user-images.githubusercontent.com/83229401/157349996-acd4c1fd-329a-4a51-b0a4-fead1d98fd12.png" width = "600" height="400"></img>
