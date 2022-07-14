@@ -70,4 +70,3 @@ urlpatterns = [
 # + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 # {% url 'xx:xxx' %} >>>>>>> reverse('api-1.0.0:login')
-gigigi
