@@ -144,9 +144,9 @@ WSGI_APPLICATION = "app.wsgi.application"
 #     }
 # }
 #
-# import pymysql
-#
-# pymysql.install_as_MySQLdb()
+import pymysql
+
+pymysql.install_as_MySQLdb()
 
 DATABASES = MYSQLRDS
 
