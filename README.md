@@ -24,7 +24,7 @@
 * 개발해야하는 기능 및 API / Data 구조설계
     - [API 구조설계](https://www.notion.so/API-f06d993e00d4487c833f6c39d4d4467d)
     ![image](https://user-images.githubusercontent.com/83229401/157353944-c27143bd-3495-47ae-a35c-b9a8212d5469.png) 
-
+    - [API 분담](https://docs.google.com/spreadsheets/d/103fbS0K2CLZ66_GOViDVFQoOxifxqxeSHEP6CrlM7eE/edit?usp=sharing)
    
 * 개발일정
     - [개발 스케줄](https://www.notion.so/f8d85f5e55f44fefb9c7d04f0f89fc35?v=14c5de60f21a4d90b6aec3c45426c0bd)    
